@@ -1,3 +1,2 @@
 # clase_sql
-
-lwkfokgkgotg
+Seleccionar las tablas
